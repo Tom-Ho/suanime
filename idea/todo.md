@@ -30,6 +30,8 @@ Todo
 - [ ] allow update details for MAL integration (start/finish date etc)
 - [x] sync list on startup
 - [x] allow add to list on watch page
+- [ ] kitsu.io integration ;)
+- [ ] resizeable stay on top video player
 
 ## development
 - [x] refactor home page code
